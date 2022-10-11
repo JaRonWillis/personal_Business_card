@@ -1,0 +1,24 @@
+.interest-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(113, 132, 142);
+    width: 317px;
+    
+}
+.header{
+    margin: 0px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding-bottom: 0;
+    color: aliceblue;
+}
+.text{
+padding-top: 10px;
+margin: 0;
+font-size: 10px;
+color: rgb(255, 255, 255);
+line-height: 1.5;
+
+}

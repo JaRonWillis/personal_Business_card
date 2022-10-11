@@ -1,0 +1,25 @@
+.footer-section{
+display: flex;
+justify-content: center;
+background-color: rgb(34, 34, 3);
+width: 317px; 
+border-bottom-right-radius: 25px;
+border-bottom-left-radius: 25px;
+
+}
+.media-links{
+    display: flex;
+    column-gap: 25px;
+    padding: 20px;
+    justify-content: center;
+    
+}
+
+
+
+.icon:hover,
+.icon:focus{
+    background-color: rgb(113, 151, 160);
+    border-radius: 20%;
+} 
+

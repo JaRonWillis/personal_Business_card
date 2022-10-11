@@ -1,0 +1,73 @@
+.continer{
+    display: flex;
+    margin: 0;
+}
+
+.headers{
+    height: 50%;
+    color: aliceblue;
+}
+
+.Profile-pic{
+    width:317px;
+    height: auto;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.bio-section{
+    background-color: rgb(105, 116, 117);
+    padding-bottom: 32px;
+    padding-top: 0;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.MyName{
+    margin: 0;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.Ocupation{
+    margin: 0;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.Web{
+    margin: 0;
+    padding-top: 10px;
+    color: burlywood;
+    font-size: 12px;
+}
+
+.contacts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+    padding-top: 22px;
+}
+
+.link{
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    border: 1px solid #afb6c0;
+    background-color: rgb(117, 130, 134);
+    padding: 10px 20px;
+    font-size: 15;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.link:hover,.link:focus{
+background-color: aquamarine;
+color: darkblue;
+}
+
+
+
