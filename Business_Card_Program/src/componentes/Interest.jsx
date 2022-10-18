@@ -5,10 +5,11 @@ export default function Interest(){
         <div className="interest-section">
             <h2 className="header">  Interest</h2>
             <p className="text">
-                Web-development, coocking, 
-                science, geology, 
-                space, tech, 
-                animation,and fishing.
+                Web-development, Cooking, 
+                Science, Geology, History,
+                Space, Tech, 
+                Animation, and Fishing.
+
             </p>
         </div>
     );

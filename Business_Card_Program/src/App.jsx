@@ -5,7 +5,7 @@ import About from "./componentes/About";
 import Interest from "./componentes/Interest";
 import Footer from "./componentes/Footer";
 
-export default function App(){
+ function App(){
   return(
       <div className="app">
           <Info />
@@ -15,3 +15,4 @@ export default function App(){
       </div>
   )
 }
+export default App

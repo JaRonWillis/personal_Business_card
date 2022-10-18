@@ -18,7 +18,7 @@
 }
 
 .bio-section{
-    background-color: rgb(105, 116, 117);
+    background-color: rgb(31, 31, 31);
     padding-bottom: 32px;
     padding-top: 0;
     border-top-left-radius: 10%;
@@ -28,12 +28,12 @@
 .MyName{
     margin: 0;
     font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: beige;
 }
 
 .Ocupation{
     margin: 0;
-    color: rgb(255, 255, 255);
+    color: beige;
     padding-top: 10px;
     font-size: 16px;
 }
@@ -50,23 +50,26 @@
     justify-content: center;
     align-items: center;
     column-gap: 15px;
-    padding-top: 22px;
+    margin-left: 13px;
+    margin-right: 13px;
+    border: none;
+    border-radius: 40px 10px;
+    background: gold;
 }
 
 .link{
     text-decoration: none;
     display: inline-block;
     align-items: center;
-    border: 1px solid #afb6c0;
-    background-color: rgb(117, 130, 134);
+    background-color: gold;
     padding: 10px 20px;
-    font-size: 15;
+    size: 15px;
     border-radius: 10px;
     cursor: pointer;
 }
 .link:hover,.link:focus{
-background-color: aquamarine;
-color: darkblue;
+background-color: goldenrod;
+
 }
 
 

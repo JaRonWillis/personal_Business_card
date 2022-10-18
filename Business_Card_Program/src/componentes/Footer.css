@@ -1,7 +1,7 @@
 .footer-section{
 display: flex;
 justify-content: center;
-background-color: rgb(34, 34, 3);
+background-color: rgb(31, 31, 31);
 width: 317px; 
 border-bottom-right-radius: 25px;
 border-bottom-left-radius: 25px;
@@ -12,14 +12,20 @@ border-bottom-left-radius: 25px;
     column-gap: 25px;
     padding: 20px;
     justify-content: center;
+    border: none;
+    border-radius: 40px 10px;
+    background: gold;
+    
     
 }
 
 
 
+
 .icon:hover,
 .icon:focus{
-    background-color: rgb(113, 151, 160);
+    background-color: goldenrod;
     border-radius: 20%;
+    
 } 
 
